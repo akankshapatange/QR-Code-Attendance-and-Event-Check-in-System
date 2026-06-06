@@ -1,0 +1,24 @@
+{
+  "name": "qr-code-attendance-event-checkin-system",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "latest",
+    "@vitejs/plugin-react": "latest",
+    "prop-types": "^15.8.1",
+    "qrcode.react": "latest",
+    "react": "latest",
+    "react-csv": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "latest",
+    "tailwindcss": "latest",
+    "uuid": "latest",
+    "vite": "latest"
+  }
+}
